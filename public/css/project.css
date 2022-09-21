@@ -1,0 +1,12 @@
+.bg-lightgrey{
+    background-color: #DEE2E6;
+}
+.container-form{
+    width: 400px;
+}
+label{
+    font-size: 20px;
+}
+.date{
+    width: 250px;
+}
